@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/avimilex?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/avimilex?label=Follow&style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avimilex-blue)](https://www.linkedin.com/in/avimilex/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avimilex-blue)](https://www.linkedin.com/feed/)
 
 I'm a Developer with a passion for creating web and mobile applications. I specialize in both frontend and backend technologies. Here are some of the technologies I work with:
 
@@ -23,6 +23,6 @@ Here are some of the open-source projects I've contributed to or created:
 
 ## 📫 Get in touch
 - Twitter: [@avimilex](https://twitter.com/avimilex)
-- LinkedIn: [avimilex](https://www.linkedin.com/in/AlfredoRequenezDiaz/)
+- LinkedIn: [avimilex](https://www.linkedin.com/feed/)
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
