@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Avimilex Requenez
 
 ![GitHub followers](https://img.shields.io/github/followers/avimilex?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/avimilex?label=Follow&style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avimilex-blue)](https://www.linkedin.com/feed/)
+
 
 I'm a Developer with a passion for creating web and mobile applications. I specialize in both frontend and backend technologies. Here are some of the technologies I work with:
 
