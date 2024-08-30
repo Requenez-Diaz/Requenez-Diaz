@@ -18,11 +18,11 @@ Backend:
 
 Here are some of the open-source projects I've contributed to or created:
 
-- [Project 1](https://github.com/Requenez-Diaz/NovaSprint_Backend)
-- [Project 2](https://github.com/Requenez-Diaz/Calculator)
+- [Backend Nestjs, NicaTravel 1](https://github.com/Requenez-Diaz/NovaSprint_Backend)
+- [Calculator](https://github.com/Requenez-Diaz/Calculator)
 
 ## 📫 Get in touch
 - Twitter: [@avimilex](https://twitter.com/avimilex)
-- LinkedIn: [avimilex](https://www.linkedin.com/feed/)
+- LinkedIn: [avimilex](www.linkedin.com/in/alfredo-requenez-diaz-0606b9242)
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
