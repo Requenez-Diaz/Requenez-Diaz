@@ -23,6 +23,6 @@ Here are some of the open-source projects I've contributed to or created:
 
 ## 📫 Get in touch
 - Twitter: [@avimilex](https://twitter.com/avimilex)
-- LinkedIn: [avimilex](www.linkedin.com/in/alfredo-requenez-diaz-0606b9242)
+- LinkedIn: [avimilex](https://www.linkedin.com/in/alfredo-requenez-diaz-0606b9242/?trk=public-profile-join-page)
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
